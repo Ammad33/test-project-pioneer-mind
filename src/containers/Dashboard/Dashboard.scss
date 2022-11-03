@@ -1,0 +1,98 @@
+.background-img-main {
+    background-image: url(../../assets/banner.png);
+    height: 35vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.welcome {
+    color: white;
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.background-card {
+    margin-top: -160px;
+    background-color: white;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+}
+
+.container-heading {
+    color: #1E1F23;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.background-picture-card {
+    background-image: url(../../assets/card3.png);
+    /* height: 35vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    border: 2px solid #F5EDC0;
+}
+
+.background-picture-card1 {
+    background-image: url(../../assets/card2.png);
+    /* height: 35vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    border: 2px solid #C2D9D1;
+}
+
+.background-picture-card2 {
+    background-image: url(../../assets/card1.png);
+    /* height: 35vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    border: 2px solid #C5CAE8;
+}
+
+.article {
+    color: #070E12;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.font-color {
+    color: #C6A101;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.font-color1 {
+    color: #31685B;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.font-color2 {
+    color: #445678;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}

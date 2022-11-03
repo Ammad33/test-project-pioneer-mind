@@ -1,0 +1,38 @@
+.background-table {
+    border-radius: 10px;
+    border: 2px solid lightgray;
+}
+
+.background-color-alert {
+    background-image: linear-gradient(90.02deg, rgba(111, 234, 204, 0.15) 0.01%, rgba(253, 255, 155, 0) 101.8%);
+    border: 1px solid #55B59E;
+    border-radius: 10px;
+    border-left: 5px solid #6FEACC !important;
+}
+
+.font-size-table {
+    color: #191726;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.font-size-table1 {
+    color: #445678;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.upcoming {
+    color: "#1E1F23";
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+}

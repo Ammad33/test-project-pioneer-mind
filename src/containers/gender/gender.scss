@@ -1,0 +1,155 @@
+.background {
+    background: #191726;
+    height: 100vh;
+    width: 100%;
+
+    header {
+        width: 100%;
+        padding: 36px;
+    }
+}
+
+.header-height {
+    height: 18%;
+}
+
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #B5C1DA;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.stepper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gender-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    height: 66px;
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 137.5%;
+    /* or 33px */
+    /* System/Blue Tint/300 - Stroke */
+    color: #E8ECF4;
+
+    p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+.info-icon {
+    height: 16.67px;
+    width: 16.67px;
+    margin-left: 8px;
+    margin-top: 6px;
+}
+
+.container {
+    margin-top: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    color: #625F75;
+    border: 1px solid #454259;
+    background: #252238;
+    border: 1px solid #454259;
+    width: 388px;
+    height: 48px;
+}
+
+.form-select:focus {
+    background: #252238;
+    border: 1px solid #454259;
+    box-shadow: 0px 0px 0px 4px #232030;
+    border-radius: 4px;
+}
+
+.form-text-container {
+    margin-top: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-text {
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #625F75;
+}
+
+.btn-custom {
+    background: #191726;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.continue-btn {
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 30px;
+    width: 388px;
+    height: 48px;
+    /* Brand/Gradient */
+    background: linear-gradient(90deg, #6FEACC 0%, #FDFF9B 100%);
+    border-radius: 4px;
+}
+
+.back-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 28px;
+
+    img {
+        margin-top: 2px;
+        margin-right: 10px;
+    }
+
+    p {
+        font-family: "Inter-Regular";
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        color: #C2C2C2;
+        margin-bottom: 0px;
+    }
+
+    Button {
+        display: flex;
+        align-items: center;
+    }
+}
