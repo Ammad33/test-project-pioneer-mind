@@ -53,16 +53,9 @@ const Gender = () => {
 
   return (
     <div className='col-sm-12 background'>
-      <Row className='header-height'>
-        <Col sm="12">
           <header>
             <img src={logo} alt="pioneerMind" />
           </header>
-        </Col>
-      </Row>
-      <Row>
-        <Col sm='4'></Col>
-        <Col sm="4">
           <div className='title'>
             Getting to know you
           </div>
@@ -122,9 +115,6 @@ const Gender = () => {
               <p> Back </p>
             </Button>
           </div>
-        </Col>
-        <Col sm='4'></Col>
-      </Row>
     </div>
 
 
